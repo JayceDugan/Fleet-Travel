@@ -14,7 +14,7 @@
     "@nrwl/eslint-plugin-nx": "15.3.3",
     "@nrwl/jest": "15.3.3",
     "@nrwl/linter": "15.3.3",
-    "@nrwl/nx-cloud": "latest",
+    "@nrwl/nx-cloud": "15.0.2",
     "@nrwl/react": "15.3.3",
     "@nrwl/web": "15.3.3",
     "@nrwl/workspace": "15.3.3",
@@ -41,7 +41,7 @@
     "eslint-plugin-react-hooks": "4.6.0",
     "jest": "28.1.1",
     "jest-environment-jsdom": "28.1.1",
-    "nx": "14.0.0",
+    "nx": "15.3.3",
     "prettier": "^2.6.2",
     "react-refresh": "^0.10.0",
     "react-test-renderer": "18.2.0",
@@ -68,3 +68,4 @@
     "zod": "^3.20.2"
   }
 }
+

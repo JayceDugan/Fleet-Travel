@@ -52,6 +52,7 @@
   },
   "dependencies": {
     "@xstate/react": "^3.0.1",
+    "ahooks": "^3.7.3",
     "core-js": "^3.6.5",
     "date-fns": "^2.29.3",
     "immer": "^9.0.16",
